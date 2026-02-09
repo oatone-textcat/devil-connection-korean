@@ -292,9 +292,11 @@ class KoreanPatchInstaller(QMainWindow):
         self.add_log("'자동 감지' 버튼을 클릭하거나 게임 경로를 직접 선택해주세요.", "info")
         self.add_log("", "info")
         self.add_log("=" * 60, "info")
-        self.add_log("메이플스토리 서체 사용 안내", "info")
-        self.add_log("본 프로그램은 ㈜넥슨코리아의 메이플스토리 서체를 사용합니다.", "info")
-        self.add_log("메이플스토리 서체의 지적 재산권은 ㈜넥슨코리아에 있습니다.", "info")
+        self.add_log("서체 사용 안내", "info")
+        self.add_log("본 프로그램은 가독성 향상을 위해 다음 공개 서체들을 사용합니다.", "info")
+        self.add_log("메이플스토리 서체, 순악필여사, 카페24 심플해, HS집토끼체 Black", "info")
+        self.add_log("산하엽, 물마루, HS겨울눈꽃체, 학교안심 마법사", "info")
+        self.add_log("각 서체의 저작권은 해당 제작자에게 있습니다.", "info")
         self.add_log("=" * 60, "info")
 
     def create_card(self):
