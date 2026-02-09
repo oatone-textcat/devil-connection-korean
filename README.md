@@ -1,4 +1,4 @@
-# Devil Connection Korean Translation Patch (비공식 한글 번역)
+# 데빌 커넥션 비공식 한글 번역 패치
 
 본 한글 패치는 Nyabi님의 데빌 커넥션 한글 패치에 기반하여 번역 팀 글냥이 소속원들(Oatone, 체퓨)의 도움을 받아 제작되었습니다.
 
